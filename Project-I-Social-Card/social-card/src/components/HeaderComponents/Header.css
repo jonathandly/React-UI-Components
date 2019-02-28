@@ -11,6 +11,9 @@
     width: 45%;
     margin-top: -15px;
 }
+p {
+    margin-top: -15px;
+}
 .header-wrapper {
     display: flex;
 }

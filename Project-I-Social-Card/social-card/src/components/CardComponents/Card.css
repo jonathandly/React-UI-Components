@@ -1,1 +1,14 @@
 /* All styles for your Card Components live here */
+.card-banner {
+    width: 45%;
+    margin-left: 135px;
+    border-radius: 6px 6px 0 0;
+}
+.card-content-div {
+    width: 42.5%;
+    margin-left: 140px;
+}
+.react-link {
+    color: lightgray;
+    text-decoration: none;
+}
