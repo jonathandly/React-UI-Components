@@ -1,1 +1,23 @@
 /* All styles for your header Components live here */
+
+.HeaderContainer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header-h1-content {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    margin-top: -15px;
+}
+p {
+    margin-top: -15px;
+}
+.header-wrapper {
+    display: flex;
+}
+.lamb-span {
+    color: lightgray;
+    font-size: 24px;
+}
