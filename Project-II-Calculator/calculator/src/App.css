@@ -1,4 +1,12 @@
 .container {
-    width: 800px;
+    width: 600px;
+    height: 600px;
     margin: 50px auto;
+}
+
+.row-div {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }

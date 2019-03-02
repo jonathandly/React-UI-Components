@@ -1,0 +1,23 @@
+.number-btn {
+    background: #ffffff;
+    width: 150px;
+    height: 100px;
+    font-size: 48px;
+}
+.red-btn {
+    background: red;
+    font-size: 48px;
+    width: 150px;
+    height: 100px;
+}
+
+.three-fourths {
+    width: 450px;
+    height: 100px;
+    font-size: 48px;
+    background: #ffffff;
+}
+
+.operator {
+    border: 1px solid gray;
+}
